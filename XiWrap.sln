@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XiWrap", "XiWrap\XiWrap.csproj", "{3BFD5A85-0774-4C0D-ADE8-82C30F9796E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XiWrap_Idle", "XiWrap_Idle\XiWrap_Idle.csproj", "{3F196ED0-0C60-42EC-A66C-10A1697EE31A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BFD5A85-0774-4C0D-ADE8-82C30F9796E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BFD5A85-0774-4C0D-ADE8-82C30F9796E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BFD5A85-0774-4C0D-ADE8-82C30F9796E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BFD5A85-0774-4C0D-ADE8-82C30F9796E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F196ED0-0C60-42EC-A66C-10A1697EE31A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F196ED0-0C60-42EC-A66C-10A1697EE31A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F196ED0-0C60-42EC-A66C-10A1697EE31A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F196ED0-0C60-42EC-A66C-10A1697EE31A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {951CB52A-541F-4955-8C0E-5CC924F80115}
+	EndGlobalSection
+EndGlobal
