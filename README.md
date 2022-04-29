@@ -1,7 +1,7 @@
 # XiWrap
 # No longer maintained  
 I cannot recommend using this application as it hasn't been maintained.  
-It was the very first application I made and can cause excessive writes to the hard drive.  
+It was my first application in C# and can cause excessive writes to the hard drive.  
 <br> 
 <br>
 <br>
